@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/github.com/anasgh914/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/anasgh914/count.svg)
